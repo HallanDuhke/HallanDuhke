@@ -22,4 +22,4 @@
 <div><br/>
 
 
-Estudando e entusiasta por tecnologia!
+Estudante e entusiasta por tecnologia!
