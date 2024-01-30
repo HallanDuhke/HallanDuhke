@@ -9,10 +9,9 @@
 [![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198271996950/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hALLANdUHKE&show_icons=true&theme=radical)
-
 <!-- Estatísticas 📊 -->
-<div>  
+<div align="center">
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=HallanDuhke&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=4B0082&text_color=48D1CC&bg_color=0d1117" />   
   <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallanDuhke&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" />
 </div>
 
