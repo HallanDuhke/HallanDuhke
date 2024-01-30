@@ -1,5 +1,4 @@
 ### Hiii ! Eu sou o Hallan Duhke 😁😁
-
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hallan-duhke-42a162230/)
 
 [![INSTAGRAN](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hallan_duhke/)
@@ -15,7 +14,7 @@
   <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallanDuhke&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" />
 </div>
 
-## Tecnologias que atualmente estou estudando!!
+## Languages and Tools!!
 
 <div style="display: inline_block"><br/>
     <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
