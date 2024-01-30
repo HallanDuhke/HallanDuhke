@@ -12,8 +12,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hALLANdUHKE&show_icons=true&theme=radical)
 
 <!-- Estatísticas 📊 -->
-<div align="center">  
-  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Stranner&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" />
+<div>  
+  <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallanDuhke&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" />
 </div>
 
 ## Tecnologias que atualmente estou estudando!!
